@@ -395,3 +395,22 @@ CSDN作者 **niezhiyang** 投稿文章《[**真正的画廊，左右条目可点
 
 >打赏时间 2017-06-02
 
+66.
+>2017-05-31
+简书作者 **qintong000** 投稿文章《[**Android 仿 instagram 和微博的头像点击加载动画**](http://mp.weixin.qq.com/s/Ii1brow3qiEOxrdCHehImw)》
+
+>打赏时间 未开
+
+67.
+>2017-06-01
+简书作者 ** zc林木木** 投稿文章《[**自定义圆环百分占比 view （label 文字支持自动换行和设置显示行数）**](http://mp.weixin.qq.com/s/1IYsvApJERkPU-10keJ8-w)》
+
+>打赏时间 未开
+
+
+68.
+>2017-06-02
+简书作者 **船长cp3** 投稿文章《[**Android 自定义控件(仿天猫搜索框)**](http://mp.weixin.qq.com/s/zxSd9AMAItocZJczW4FxDA)》
+
+>打赏时间 未开
+
