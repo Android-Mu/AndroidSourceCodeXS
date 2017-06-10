@@ -414,3 +414,38 @@ CSDN作者 **niezhiyang** 投稿文章《[**真正的画廊，左右条目可点
 
 >打赏时间 未开
 
+69.
+>2017-06-05
+简书作者 **SoftXJ** 投稿文章《[**Android Kotlin&BLE(低功耗蓝牙) 笔记**](https://mp.weixin.qq.com/s/D_zp1036eufuYCjPpR4FDw)》
+
+>打赏时间 2017-06-12
+
+70.
+>2017-06-06
+简书作者 **captainary** 投稿文章《[**一步步教你画股票图,K 线图,高仿雪球股票**](http://mp.weixin.qq.com/s/1YjGkgGKpMSYDdkSu18ZUQ)》
+
+>打赏时间 未开
+
+71.
+>2017-06-07
+简书作者 **一息尚存** 投稿文章《[**[Android] 自定义 View 之仿 QQ 讨论组头像**](http://mp.weixin.qq.com/s/0WSfWzoX9MnUOj79_P7pig)》
+
+>打赏时间 未开
+
+72.
+>2017-06-08
+简书作者 **InKenKa** 投稿文章《[**良心推荐：总结 Android 开发中必备的代码 Review 清单**](http://mp.weixin.qq.com/s/0U733-oOv6HTW-tmhWi4Vw)》
+
+>打赏时间 未开
+
+73.
+>2017-06-09
+简书作者 **xiaoyanger** 投稿文章《[**京东快报轮播公告的实现**](http://mp.weixin.qq.com/s/dmGzlEYn7fOk1LakiIrEAw)》
+
+>打赏时间 未开
+
+74.
+>2017-06-22
+简书作者 **小楠总** 投稿文章《[**Android NDK 开发之旅 10—14**](http://mp.weixin.qq.com/s/-lhGXHhPIpQ9G1Bo7-5rmw)》
+
+>打赏时间 未开
