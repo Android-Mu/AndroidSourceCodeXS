@@ -449,3 +449,33 @@ CSDN作者 **niezhiyang** 投稿文章《[**真正的画廊，左右条目可点
 简书作者 **小楠总** 投稿文章《[**Android NDK 开发之旅 10—14**](http://mp.weixin.qq.com/s/-lhGXHhPIpQ9G1Bo7-5rmw)》
 
 >打赏时间 未开
+
+75.
+>2017-06-12
+博客园作者 **刘蔡涛** 投稿文章《[**程序员如何选择未来的职业路线**](http://mp.weixin.qq.com/s/u9xrlRvSPrH9KYpVWYIxcQ)》
+
+>打赏时间 未开
+
+76.
+>2017-06-13
+简书作者 **hackest** 投稿文章《[**2017 年 Android 曲折的求职之路**](http://mp.weixin.qq.com/s/N8EcP9dV1LWzkQDNRF2YOg)》
+
+>打赏时间 未开
+
+77.
+>2017-06-14
+简书作者 **夏至的稻穗** 投稿文章《[**MVP+多线程+断点续传 实现 app 在线升级库 (手把手教你打造自己的 lib)**](http://mp.weixin.qq.com/s/r47F32QY9olF6wVAF3d-0Q)》
+
+>打赏时间 未开
+
+78.
+>2017-06-15
+个人博客 **张涛** 投稿文章《[**Kotlin Primer·第六章·集合泛型与操作符**](http://mp.weixin.qq.com/s/JTvj6srNjvy4Ex-_ZfVY9Q)》
+
+>打赏时间 未开
+
+79.
+>2017-06-17
+简书作者 **code小生** 分享文章《[**学习技术 | 这几个公号你不应该错过**](http://mp.weixin.qq.com/s/YmcEm9E5fyhmZ-N7AEg9vQ)》
+
+>打赏时间 未开
