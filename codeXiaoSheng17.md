@@ -479,3 +479,75 @@ CSDN作者 **niezhiyang** 投稿文章《[**真正的画廊，左右条目可点
 简书作者 **code小生** 分享文章《[**学习技术 | 这几个公号你不应该错过**](http://mp.weixin.qq.com/s/YmcEm9E5fyhmZ-N7AEg9vQ)》
 
 >打赏时间 未开
+
+80.
+>2017-06-19
+简书作者 **chiyidun** 投稿文章《[**仿简书动态 searchview 的实现，代码就这么多点**](http://mp.weixin.qq.com/s/YIYDVyDLeevHRJ0tZfs1_A)》
+
+>打赏时间 未开
+
+81.
+>2017-06-19
+简书作者 **code小生** 原创文章《[**编程之旅，致新入行的朋友**](https://mp.weixin.qq.com/s/TBhccRDmI47e2vl8TcX4SA)》
+
+>打赏时间 未开
+
+82.
+>2017-06-20
+简书作者 **goeasyway** 投稿文章《[**瓶颈：没有技术深度的苦恼**](http://mp.weixin.qq.com/s/GuiP2dmkM9z8rzzxdn3Pww)》
+
+>打赏时间 未开
+
+83.
+>2017-06-21
+简书作者 **兔子吃过窝边草** 投稿文章《[**仿 Nice 首页图片列表 9 图样式，并实现拖拽效果**](http://mp.weixin.qq.com/s/XBM7eYuFl7I8mNCTizKuyA)》
+
+>打赏时间 未开
+
+84.
+>2017-06-22
+简书作者 ** _小马快跑_** 投稿文章《[**Android 仿 QQ 侧滑菜单**](http://mp.weixin.qq.com/s/mgU5M9mR_gZa5K-L92ZjBA)》
+
+>打赏时间 未开
+
+85.
+>2017-06-23
+简书作者 **24K纯帅豆** 投稿文章《[**Android 使用 Path 仿支付宝支付成功失败动画**](http://mp.weixin.qq.com/s/76yng2hofs0DBaKq55Ufjg)》
+
+>打赏时间 未开
+
+86.
+>2017-06-26
+简书作者 **Enum** 投稿文章《[**给一年左右经验想去大厂的同学们的一些建议**](https://mp.weixin.qq.com/s/z-BbaMOYkGU0AF8_x6EpJg)》
+
+>打赏时间 未开
+
+87.
+>2017-06-27
+简书作者 **叶剑烨** 投稿文章《[**如何提升你的能力？给年轻程序员的几条建议**](http://mp.weixin.qq.com/s/0azo-znEXajF2R54g_0q3g)》
+
+>打赏时间 未开
+
+88.
+>2017-06-28
+简书作者 **developerHaoz** 投稿文章《[**Android 基于 glide 4.0 封装图片加载库**](http://mp.weixin.qq.com/s/7VK9CLvJ-ZMW0dLHs6qJVg)》
+
+>打赏时间 未开
+
+89.
+>2017-06-29
+简书作者 **香辣牛肉面** 投稿文章《[**程序员之路-学习经验总结分享**](http://mp.weixin.qq.com/s/0U3DHX60c2rYHUX01iagMw)》
+
+>打赏时间 未开
+
+90.
+>2017-06-30
+简书作者 **24K纯帅豆** 投稿文章《[**一步一步带你认识 MVP+Retrofit+Rxjava 并封装（一）**](http://mp.weixin.qq.com/s/VJHbdNc4HmEvk0LNK8tftg)》
+
+>打赏时间 未开
+
+91.
+>2017-06-29
+简书作者 **刘俊强** 投稿文章《[**程序员，你还没有软技能吗？难怪你不幸福**](http://mp.weixin.qq.com/s/M6vd26jO4-IccS-DX8k59A)》
+
+>打赏时间 未开
