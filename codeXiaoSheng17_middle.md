@@ -1,9 +1,9 @@
 # AndroidSourceCodeXS
 Android 旅途路上的一些用得着的资源整理
 
-## 公众号 code小生 2017推文记录
+## 公众号 code小生 2017推文记录（半年总结）
 
-> 对上半年所分享的文章进行一个整理，很多读者当时忘记了收藏，以致于查找一篇历史文章很费劲，因此在这里顺便做下记录。目前就分下下面几个大类，没有更多细分，已基本可以查找了。
+> 对上半年所分享的文章进行一个整理，很多读者当时忘记了收藏，以致于查找一篇历史文章很费劲，因此在这里顺便做下记录。目前就分下下面几个大类，没有更多细分，已基本可以查找了。[下半年不断更新...](https://github.com/Android-Mu/AndroidSourceCodeXS/blob/master/codeXiaoSheng17_end.md)
 
 ### App 系列（高仿、练手等）
 [**SmartRecom：一款干货满满，助你进阶的 App 项目**](http://mp.weixin.qq.com/s/u8oo7cdb-sqtge4jVw8lbg)
