@@ -5,7 +5,7 @@ Android 旅途路上的一些用得着的资源整理
 
 
 
-> 对下半年所分享的文章进行整理，[**上半年总结的 98 篇好文请点击这里**](https://github.com/Android-Mu/AndroidSourceCodeXS/edit/master/codeXiaoSheng17.md)，
+> 对下半年所分享的文章进行整理，[**上半年总结的 98 篇好文请点击这里**](https://github.com/Android-Mu/AndroidSourceCodeXS/blob/master/codeXiaoSheng17.md)，
 很多读者当时忘记了收藏，以致于查找一篇历史文章很费劲，因此在这里顺便做下记录。目前就分下下面几个大类，没有更多细分，已基本可以查找了。
 
 
