@@ -3,11 +3,8 @@ Android 旅途路上的一些用得着的资源整理
 
 ## 公众号 「code小生」 2017推文记录(年终)
 
-
-
 > 对下半年所分享的文章进行整理，[**上半年总结的 98 篇好文请点击这里**](https://github.com/Android-Mu/AndroidSourceCodeXS/blob/master/codeXiaoSheng17.md)，
 很多读者当时忘记了收藏，以致于查找一篇历史文章很费劲，因此在这里顺便做下记录。目前就分下下面几个大类，没有更多细分，已基本可以查找了。
-
 
 ### App 系列（高仿、练手等）
 
@@ -32,6 +29,9 @@ Android 旅途路上的一些用得着的资源整理
 
 [一步一步带你认识 MVP+Retrofit+Rxjava 并封装（二）](http://mp.weixin.qq.com/s/Iswvq0zoqi9qQp3eGVD7Iw)
 
+[Android 和 H5 交互-框架篇](http://mp.weixin.qq.com/s/CDinDcARYfOnL4yysspQsQ)
+
+[大神带你看——fastjson 那些事.pptx](http://mp.weixin.qq.com/s/lOMipMy29MgmnfpgK2iHww)
 
 ### 求职
 
@@ -45,6 +45,11 @@ Android 旅途路上的一些用得着的资源整理
 
 [2017 | 我在 5 个月时间里分享了 98 篇文章](http://mp.weixin.qq.com/s/Dh5ur11SDXgQAu7jKtDU8A)
 
+[「译文」资深程序员应该有的样子](http://mp.weixin.qq.com/s/JTIrgQ9PKXHCCejuhi4XeA)
+
+[预告 | 送书福利](http://mp.weixin.qq.com/s/oa01iVP7aOxBlE36iI0Q7A)
+
+[非常有用的资源合集-开发设计再也不愁啦](http://mp.weixin.qq.com/s/8hPVS8e2cq3JRpG1mRizww)
 
 ### 源码分析
 
@@ -57,6 +62,11 @@ Android 旅途路上的一些用得着的资源整理
 
 [一个老程序员的建议](http://mp.weixin.qq.com/s/lJliBcfm1YO9gjnMRwgjUQ)
 
+[Android 新手如何学习开发一款 app?](http://mp.weixin.qq.com/s/ukVT1VjeM_-MgZN7zx_1FQ)
+
+[种一棵树最好的时间是十年前，其次是现在](http://mp.weixin.qq.com/s/fJNJmLCumyLf06sJsr81CA)
+
+[30 岁程序员的选择，一线 OR 二线？](http://mp.weixin.qq.com/s/n5A1nkzf0mgd2EXWvbSBSg)
 
 ### 完整系列
 
@@ -80,3 +90,21 @@ Android 旅途路上的一些用得着的资源整理
 [你被下拉刷新和上拉加载搞烦了吗？](http://mp.weixin.qq.com/s/2-utimMTf2CwgNmbSUaNJA)
 
 [Android 下实现高效的模糊效果](http://mp.weixin.qq.com/s/WnTkAXXMgT05MqnDL1BeGg)
+
+[RecyclerView 简单到想哭的多条目实现](http://mp.weixin.qq.com/s/PeECYWvD0W6LeIUn1_ebwA)
+
+[程序员都该懂点 HTTP](http://mp.weixin.qq.com/s/38GrbReICfu54-nEWylqIQ)
+
+[WebView 开车指南之最全实用案例](http://mp.weixin.qq.com/s/Tcfjd3OFgeQC-huFCOBP0w)
+
+[震惊！阿里热更新框架 Sophix 背后隐藏的真相竟然是……](http://mp.weixin.qq.com/s/RSDWeJ-iv9IbKtr2scYXLA)
+
+[Android 仿微信朋友圈全文、收起功能](http://mp.weixin.qq.com/s/X5jl9pivAYxtwbp02WCUMA)
+
+[Android 的毛玻璃模糊效果，我使用 OpenCV 来搞](http://mp.weixin.qq.com/s/9DZnjOh31DvJLH7xcNhAuQ)
+
+[「DragMoreScrollView」一种相册交互效果的实现](http://mp.weixin.qq.com/s/yl0ww0MzKwKb4fN6V3RVZw)
+
+[关于多选（有动画）解决方案，你需要的可能是这个](http://mp.weixin.qq.com/s/bf0CLdBsCHd67YpaSlX3rA)
+
+[关于 Android Zxing 3.3.0 的填坑](http://mp.weixin.qq.com/s/08XNoEBmFOmCc-U4nzo8fw)
