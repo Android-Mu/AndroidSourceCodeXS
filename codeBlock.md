@@ -250,3 +250,125 @@ private Bitmap getVideoThumbnail(String videoPath, int width, int height,
     return bitmap;
 }
 ```
+- - - - -
+```java
+/**
+     * 从系统文件管理获取选择的文件路径
+     *
+     * @param context
+     * @param uri
+     * @return
+     */
+    private String getFmPath(Context context, Uri uri) {
+        if ("content".equals(uri.getScheme())) {
+            String[] projection = {"_data"};
+            Cursor cursor = null;
+            try {
+                cursor = context.getContentResolver().query(uri, projection, null, null, null);
+                int column_index = cursor.getColumnIndexOrThrow("_data");
+                if (cursor.moveToFirst()) {
+                    return cursor.getString(column_index);
+                }
+            } catch (Exception e) {
+
+            }
+        } else if ("file".equalsIgnoreCase(uri.getScheme())) {
+            return uri.getPath();
+        }
+        return null;
+    }
+```
+- - - - -
+```java
+获取手机IP
+
+1.使用WIFI
+
+添加权限
+<uses-permission android:name="android.permission.ACCESS_WIFI_STATE"></uses-permission>  
+<uses-permission android:name="android.permission.CHANGE_WIFI_STATE"></uses-permission>  
+<uses-permission android:name="android.permission.WAKE_LOCK"></uses-permission>
+
+代码：
+    public void onCreate(Bundle savedInstanceState) {  
+            super.onCreate(savedInstanceState);  
+            setContentView(R.layout.main);  
+             
+            //获取wifi服务  
+            WifiManager wifiManager = (WifiManager) getSystemService(Context.WIFI_SERVICE);  
+            //判断wifi是否开启  
+            if (!wifiManager.isWifiEnabled()) {  
+            wifiManager.setWifiEnabled(true);    
+            }  
+            WifiInfo wifiInfo = wifiManager.getConnectionInfo();       
+            int ipAddress = wifiInfo.getIpAddress();   
+            String ip = intToIp(ipAddress);   
+            EditText et = (EditText)findViewById(R.id.EditText01);  
+            et.setText(ip);  
+        }     
+        private String intToIp(int i) {
+              return (i & 0xFF ) + "." +       
+            ((i >> 8 ) & 0xFF) + "." +       
+            ((i >> 16 ) & 0xFF) + "." +       
+            ( i >> 24 & 0xFF) ;  
+         }
+此方法是没有问题的，Android 高低版本都合适
+
+2、使用GPRS
+
+权限：
+<uses-permission android:name="android.permission.INTERNET"></uses-permission>  
+代码：
+//获取本地IP
+ public static String getLocalIpAddress() {  
+    try {  
+        for (Enumeration<NetworkInterface> en = NetworkInterface  
+                        .getNetworkInterfaces(); en.hasMoreElements();) {  
+                    NetworkInterface intf = en.nextElement();  
+                   for (Enumeration<InetAddress> enumIpAddr = intf  
+                            .getInetAddresses(); enumIpAddr.hasMoreElements();) {  
+                        InetAddress inetAddress = enumIpAddr.nextElement();  
+                        if (!inetAddress.isLoopbackAddress() && !inetAddress.isLinkLocalAddress()) {  
+                        return inetAddress.getHostAddress().toString();  
+                        }  
+                   }  
+                }  
+            } catch (SocketException ex) {  
+                Log.e("WifiPreference IpAddress", ex.toString());  
+            } 
+         return null; 
+}
+```
+- - - - -
+```java
+/**
+ * X5 WebView 如下设置,加载 word 或者其他网页链接 在退出页面时出现异常的解决办法：onDestroy 方法
+ */
+WebView x5WebView = new WebView(this);
+
+WebSettings webSettings = x5WebView.getSettings();
+webSettings.setAllowFileAccess(true);
+webSettings.setSupportZoom(true);
+webSettings.setUseWideViewPort(true);
+webSettings.setLayoutAlgorithm(WebSettings.LayoutAlgorithm.NARROW_COLUMNS);
+webSettings.setLoadWithOverviewMode(true);
+webSettings.setBuiltInZoomControls(true);
+webSettings.setSupportMultipleWindows(true);
+webSettings.setAppCacheEnabled(true);
+webSettings.setDomStorageEnabled(true);
+
+/**
+* 在页面的生命周期方法 onDestroy 做如下判断即可
+*/
+@Override
+protected void onDestroy() {
+    if (x5WebView != null) {
+        x5WebView.getSettings().setBuiltInZoomControls(true);
+        x5WebView.removeAllViews();
+        x5WebView.setVisibility(View.GONE);
+        x5WebView.destroy();
+    }
+super.onDestroy();
+}
+```
+- - - - -
