@@ -7,7 +7,8 @@ Android 旅途路上的一些用得着的资源整理
 很多读者当时忘记了收藏，以致于查找一篇历史文章很费劲，因此在这里顺便做下记录。目前就分下下面几个大类，没有更多细分，已基本可以查找了。
 
 ### App 系列（高仿、练手等）
-
+[你好,芒果!使用 RxKotlin 开发的 Dribbble App.](http://mp.weixin.qq.com/s/qcB7qhQfaehvBL-rD7EC8w)
+[分享我学习 Androd 开发过程中写的小项目](http://mp.weixin.qq.com/s/iDAB7akk9QhHq5JrKzq60A)
 
 ### 自定义 / 仿系列
 [自定义 View—手把手教你撸出一个圆形加载进度条](http://mp.weixin.qq.com/s/SL2Axl21NVfx9qz-q_CPiw)
@@ -24,6 +25,8 @@ Android 旅途路上的一些用得着的资源整理
 
 [Android 高仿懂球帝我是教练效果](http://mp.weixin.qq.com/s/wNQZbhL6nMzCiqGUikK2FQ)
 
+[Android 上一个类似 PathMenu 效果的自定义 View 源码分析](http://mp.weixin.qq.com/s/bS20UZfnBy4iQtYr_s7Gkw)
+
 ### 框架/库（封装使用）
 [为 Retrofit2 提供的 FastJson 转换库](http://mp.weixin.qq.com/s/2QbqVmh0-5v10E-Ge-3Dog)
 
@@ -34,7 +37,7 @@ Android 旅途路上的一些用得着的资源整理
 [大神带你看——fastjson 那些事.pptx](http://mp.weixin.qq.com/s/lOMipMy29MgmnfpgK2iHww)
 
 ### 求职
-
+[帝都三年 Java，说说我的求职之路](http://mp.weixin.qq.com/s/Kmi8Xs35vT84GtAjnp5QeA)
 
 ### 干货
 [程序员，你还没有软技能吗？难怪你不幸福](http://mp.weixin.qq.com/s/M6vd26jO4-IccS-DX8k59A)
@@ -51,8 +54,10 @@ Android 旅途路上的一些用得着的资源整理
 
 [非常有用的资源合集-开发设计再也不愁啦](http://mp.weixin.qq.com/s/8hPVS8e2cq3JRpG1mRizww)
 
-### 源码分析
+[给编程生涯充电的 10 本书](http://mp.weixin.qq.com/s/Asx_9gNcYely8Yo6oZCmMA)
 
+### 源码分析
+[三步掌握 Android 中的 AIDL](http://mp.weixin.qq.com/s/KkGefJxHF_MLlb5K2p-WWg)
 
 ### 职场
 
@@ -108,3 +113,9 @@ Android 旅途路上的一些用得着的资源整理
 [关于多选（有动画）解决方案，你需要的可能是这个](http://mp.weixin.qq.com/s/bf0CLdBsCHd67YpaSlX3rA)
 
 [关于 Android Zxing 3.3.0 的填坑](http://mp.weixin.qq.com/s/08XNoEBmFOmCc-U4nzo8fw)
+
+[Android 录音功能直接拿去用](http://mp.weixin.qq.com/s/LorIJvuYuTNtMUqUt_uH5Q)
+
+[Android 实现 dialog 的 3D 翻转](http://mp.weixin.qq.com/s/LEOB83WC5Jn_LT-dWVPSqw)
+
+[仿房产销冠 APP 销控表界面-多 RecyclerView 同步滚动](http://mp.weixin.qq.com/s/fuX2FotrO9isrYOmd8jo4Q)
