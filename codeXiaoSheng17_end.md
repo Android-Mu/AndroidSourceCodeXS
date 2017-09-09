@@ -27,6 +27,8 @@ Android 旅途路上的一些用得着的资源整理
 
 [Android 上一个类似 PathMenu 效果的自定义 View 源码分析](http://mp.weixin.qq.com/s/bS20UZfnBy4iQtYr_s7Gkw)
 
+[自定义 View：用贝塞尔曲线绘制酷炫轮廓背景](http://mp.weixin.qq.com/s/SzZuiRMz8QWzNqCjq2gI_A)
+
 ### 框架/库（封装使用）
 [为 Retrofit2 提供的 FastJson 转换库](http://mp.weixin.qq.com/s/2QbqVmh0-5v10E-Ge-3Dog)
 
@@ -38,6 +40,8 @@ Android 旅途路上的一些用得着的资源整理
 
 ### 求职
 [帝都三年 Java，说说我的求职之路](http://mp.weixin.qq.com/s/Kmi8Xs35vT84GtAjnp5QeA)
+
+[四步准备 Android 面试](http://mp.weixin.qq.com/s/ysKi_XJ1nAWULJ-N_UCfHg)
 
 ### 干货
 [程序员，你还没有软技能吗？难怪你不幸福](http://mp.weixin.qq.com/s/M6vd26jO4-IccS-DX8k59A)
@@ -58,6 +62,8 @@ Android 旅途路上的一些用得着的资源整理
 
 ### 源码分析
 [三步掌握 Android 中的 AIDL](http://mp.weixin.qq.com/s/KkGefJxHF_MLlb5K2p-WWg)
+
+[Android 进阶 - 视图层级实时分析（含福利）](http://mp.weixin.qq.com/s/CkTNrLu0AIDGsPQKIXz-ug)
 
 ### 职场
 
@@ -119,3 +125,9 @@ Android 旅途路上的一些用得着的资源整理
 [Android 实现 dialog 的 3D 翻转](http://mp.weixin.qq.com/s/LEOB83WC5Jn_LT-dWVPSqw)
 
 [仿房产销冠 APP 销控表界面-多 RecyclerView 同步滚动](http://mp.weixin.qq.com/s/fuX2FotrO9isrYOmd8jo4Q)
+
+[D 项目 Android 模块化 VCS 演进之路](http://mp.weixin.qq.com/s/BbDYIJ9EKHl_X5vtogqkWQ)
+
+[使用 ACTION_IMAGE_CAPTURE 可能存在的风险](http://mp.weixin.qq.com/s/MeYkKeDMwrjPEvcU96NR_w)
+
+[Android 中的工厂模式（减少 if-else 和 switch-case）](http://mp.weixin.qq.com/s/J0uAQy0iMDNBy45TQbUzFA)
