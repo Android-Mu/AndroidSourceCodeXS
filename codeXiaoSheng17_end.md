@@ -8,7 +8,10 @@ Android 旅途路上的一些用得着的资源整理
 
 ### App 系列（高仿、练手等）
 [你好,芒果!使用 RxKotlin 开发的 Dribbble App.](http://mp.weixin.qq.com/s/qcB7qhQfaehvBL-rD7EC8w)
+
 [分享我学习 Androd 开发过程中写的小项目](http://mp.weixin.qq.com/s/iDAB7akk9QhHq5JrKzq60A)
+
+[来自大学生投稿：一个适合新手上手的商城项目](http://mp.weixin.qq.com/s/VxpCVlJhU3_QQgHK2HJ9Bg)
 
 ### 自定义 / 仿系列
 [自定义 View—手把手教你撸出一个圆形加载进度条](http://mp.weixin.qq.com/s/SL2Axl21NVfx9qz-q_CPiw)
@@ -29,6 +32,12 @@ Android 旅途路上的一些用得着的资源整理
 
 [自定义 View：用贝塞尔曲线绘制酷炫轮廓背景](http://mp.weixin.qq.com/s/SzZuiRMz8QWzNqCjq2gI_A)
 
+[回炉再造，灵活的 YMenuView 2.0 诞生](http://mp.weixin.qq.com/s/Cl3JHw84L1XBgKBMeveE4A)
+
+[自定义 LayoutManager 实现弧形以及滑动放大效果 RecyclerView](http://mp.weixin.qq.com/s/VQGx1_Q-7No0gXficmjujw)
+
+[自定义 View 之炫酷的成绩展示界面](http://mp.weixin.qq.com/s/WamWBViJMNksefxs8xIB_Q)
+
 ### 框架/库（封装使用）
 [为 Retrofit2 提供的 FastJson 转换库](http://mp.weixin.qq.com/s/2QbqVmh0-5v10E-Ge-3Dog)
 
@@ -38,10 +47,20 @@ Android 旅途路上的一些用得着的资源整理
 
 [大神带你看——fastjson 那些事.pptx](http://mp.weixin.qq.com/s/lOMipMy29MgmnfpgK2iHww)
 
+[三行代码实现 TabLayout+ViewPager 的 Tab 滑动效果，从封装到开源](http://mp.weixin.qq.com/s/VhrffiRARmYeTlFqrmjmeA)
+
+[小之的架构之路——Android MVVM 面向接口型框架封装和单元测试](https://mp.weixin.qq.com/s/bOBp7U3BA6CQ7PWjWw979g)
+
 ### 求职
 [帝都三年 Java，说说我的求职之路](http://mp.weixin.qq.com/s/Kmi8Xs35vT84GtAjnp5QeA)
 
 [四步准备 Android 面试](http://mp.weixin.qq.com/s/ysKi_XJ1nAWULJ-N_UCfHg)
+
+[Android 面试 | 全站式导航](http://mp.weixin.qq.com/s/fTfudY1DBYS5JiSkPnbjAg)
+
+[值得借鉴：耗时两个月的求职经历](http://mp.weixin.qq.com/s/leuQDDAFvuGZjkdAkmzZHQ)
+
+[面试官之初体验，请考虑](http://mp.weixin.qq.com/s/IIaQn4veC9_YVJL2fGiYgw)
 
 ### 干货
 [程序员，你还没有软技能吗？难怪你不幸福](http://mp.weixin.qq.com/s/M6vd26jO4-IccS-DX8k59A)
@@ -60,13 +79,15 @@ Android 旅途路上的一些用得着的资源整理
 
 [给编程生涯充电的 10 本书](http://mp.weixin.qq.com/s/Asx_9gNcYely8Yo6oZCmMA)
 
+[推荐几个开源库](http://mp.weixin.qq.com/s/wpygDxIMzV4SkOr5vqPRZQ)
+
 ### 源码分析
 [三步掌握 Android 中的 AIDL](http://mp.weixin.qq.com/s/KkGefJxHF_MLlb5K2p-WWg)
 
 [Android 进阶 - 视图层级实时分析（含福利）](http://mp.weixin.qq.com/s/CkTNrLu0AIDGsPQKIXz-ug)
 
 ### 职场
-
+[中国程序员如何升职加薪，也许我们该学学印度人](http://mp.weixin.qq.com/s/aWvYfjvH9fRVP2oRPZvA_A)
 
 ### 经验分享
 [程序员应该读的 7 本计算机书](http://mp.weixin.qq.com/s/rRQB1zT1T5vwUpWAdb0Z-g)
@@ -78,6 +99,10 @@ Android 旅途路上的一些用得着的资源整理
 [种一棵树最好的时间是十年前，其次是现在](http://mp.weixin.qq.com/s/fJNJmLCumyLf06sJsr81CA)
 
 [30 岁程序员的选择，一线 OR 二线？](http://mp.weixin.qq.com/s/n5A1nkzf0mgd2EXWvbSBSg)
+
+[软件开发中的 10 条最佳指导原则](http://mp.weixin.qq.com/s/u-XOfzCo7PY51gwol7PfCw)
+
+[如何打造个人技术影响力](http://mp.weixin.qq.com/s/nGxeJB-fPpOWwg13Ii5H9w)
 
 ### 完整系列
 
@@ -91,6 +116,26 @@ Android 旅途路上的一些用得着的资源整理
 **优化/瘦身**
 
 [Android 性能小技巧](http://mp.weixin.qq.com/s/C8J7BWVufogcCeALkQBGOA)
+
+[Android APK 瘦身实践](http://mp.weixin.qq.com/s/3IALGEB6YnFb4Wj8Q4JqvA)
+
+**组件化**
+
+[Android 组件化 —— 路由设计最佳实践](http://mp.weixin.qq.com/s/f9D8P0VF2cspvfUiIWNb4w)
+
+[Android 彻底组件化 demo 发布](http://mp.weixin.qq.com/s/aWUixHMhU8g0W4dapr0HPg)
+
+**小程序**
+
+[微信小程序实战篇-个人中心](http://mp.weixin.qq.com/s/53wefLCa0113Arka7AuzSA)
+
+**JVM**
+
+[Android 进阶之简述 JVM 基础（一）：走进Java](http://mp.weixin.qq.com/s/7vwQMEHamHSuDZ4c5DjIoA)
+
+[Android 精进之简述 JVM 基础（二）：Java内存区域与内存溢出异常](https://mp.weixin.qq.com/s/FtgS0VI9xl2-lyYiMniRkA)
+
+[Android 精进：简述 JVM 基础（三）：垃圾收集器与内存分配策略](http://mp.weixin.qq.com/s/1n9ZYKfxwQle7WdvNqUMZg)
 
 ---
 
@@ -131,3 +176,46 @@ Android 旅途路上的一些用得着的资源整理
 [使用 ACTION_IMAGE_CAPTURE 可能存在的风险](http://mp.weixin.qq.com/s/MeYkKeDMwrjPEvcU96NR_w)
 
 [Android 中的工厂模式（减少 if-else 和 switch-case）](http://mp.weixin.qq.com/s/J0uAQy0iMDNBy45TQbUzFA)
+
+[Android Transition Framework 详解---超炫的动画框架](http://mp.weixin.qq.com/s/4_sjHlIrwzOHiK1Sp4Zgog)
+
+[Android 一起来看看 7.0 的新特性 FileProvider](http://mp.weixin.qq.com/s/05EIPgg_4LjrRQxPjqG-gg)
+
+[Android 如何在应用程序一段时间无操作后 退出登录](http://mp.weixin.qq.com/s/3ChfvTgQLzsSU_eedZL8bg)
+
+[Android Dex 分包](http://mp.weixin.qq.com/s/CYFNKPtRgfnbqJyN4IxE3Q)
+
+[细细品读 Retrofit 的设计之美一](http://mp.weixin.qq.com/s/I4M1QCxQx49IA-hVjhelKQ)
+
+[细细品读 Retrofit 的设计之美 二](http://mp.weixin.qq.com/s/ReluZMc73D6-VReFX7CgDQ)
+
+[Android Binder—APP->framework(mRemote的前世今生)](https://mp.weixin.qq.com/s/qWea3A7e0Tu3vZqJLSCT_w)
+
+[使用 Dagger2 前你必须了解的一些设计原则](http://mp.weixin.qq.com/s/bCBrz6gISlq_t2BrpuxTkg)
+
+[在 Android 上，一个完整的 UDP 通信模块应该是怎样的？](http://mp.weixin.qq.com/s/qkrcF7zAVeiY0_KScatIpQ)
+
+[MediaPlayer 实现金额的语音播报功能](http://mp.weixin.qq.com/s/vuEK1vKJqR1Qx7I44pYeiA)
+
+[Android 广播的那些事儿](https://mp.weixin.qq.com/s/hAt4saeSLS5MWhHPEkbXrw)
+
+[视差动画 - 雅虎新闻摘要加载](http://mp.weixin.qq.com/s/fgih9IsLPJbNK8EvQt6YBw)
+
+[Android App 自动化测试: OPEN-STF环境搭建](http://mp.weixin.qq.com/s/JNHKJfnW74tDeVilIfnfMg)
+
+[一个容错的 Gson 新世界](http://mp.weixin.qq.com/s/bvu_5odxqpDXzAwHctNXfw)
+
+[Android 谈谈自动化测试](http://mp.weixin.qq.com/s/-0e1wd2iveQPMWgGFcmOwQ)
+
+[Android•Lottie 动画库填坑记](http://mp.weixin.qq.com/s/ipu32zPjaHeqICgOGqct9g)
+
+[MixPanel －Android 端埋点技术研究](http://mp.weixin.qq.com/s/uzvzF2owmw_g5vP-Np7x5w)
+
+[视频播放技术汇总（列表播放，小窗播放，跨界面播放，播放中网络切换提示）](http://mp.weixin.qq.com/s/_4CXBIjVcOld76523ZGzFA)
+
+[巧用 Fragment，解耦 Android6.0 权限适配手记](http://mp.weixin.qq.com/s/UPU-suPWvPFWG42ZWDWKkw)
+
+[漫画：什么是B-树？](http://mp.weixin.qq.com/s/w4BU3P1909n7iPcqk68N7Q)
+
+[微信 Tinker 在 Android 中集成以及使用](http://mp.weixin.qq.com/s/MFpvNeVHuv2J4m_Wz-NZbw)
+
