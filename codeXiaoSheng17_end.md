@@ -51,6 +51,9 @@ Android 旅途路上的一些用得着的资源整理
 
 [小之的架构之路——Android MVVM 面向接口型框架封装和单元测试](https://mp.weixin.qq.com/s/bOBp7U3BA6CQ7PWjWw979g)
 
+[少年郎，你需要封装好的 ViewPager 工具类](http://mp.weixin.qq.com/s/UtvhSllW_-59wZjIGaa5FQ)
+
+
 ### 求职
 [帝都三年 Java，说说我的求职之路](http://mp.weixin.qq.com/s/Kmi8Xs35vT84GtAjnp5QeA)
 
@@ -104,6 +107,13 @@ Android 旅途路上的一些用得着的资源整理
 
 [如何打造个人技术影响力](http://mp.weixin.qq.com/s/nGxeJB-fPpOWwg13Ii5H9w)
 
+[6 天时间修改 1 行代码：现实中的软件开发流程](http://mp.weixin.qq.com/s/2MZ_xBZ1_U4I5sw4pktmAA)
+
+[程序员、架构师、技术经理、技术总监和 CTO 都是干什么的？](http://mp.weixin.qq.com/s/m5mPLK8qp2KOHdUwUs95kw)
+
+[如何有效报告 bug](http://mp.weixin.qq.com/s/1X_ZodEa05pOAUS641MITw)
+
+
 ### 完整系列
 
 
@@ -124,6 +134,9 @@ Android 旅途路上的一些用得着的资源整理
 [Android 组件化 —— 路由设计最佳实践](http://mp.weixin.qq.com/s/f9D8P0VF2cspvfUiIWNb4w)
 
 [Android 彻底组件化 demo 发布](http://mp.weixin.qq.com/s/aWUixHMhU8g0W4dapr0HPg)
+
+[Android 彻底组件化番外篇-gradle3.0.0](http://mp.weixin.qq.com/s/kr4SqGcTnWmsQMwHHbLCrw)
+
 
 **小程序**
 
@@ -218,4 +231,10 @@ Android 旅途路上的一些用得着的资源整理
 [漫画：什么是B-树？](http://mp.weixin.qq.com/s/w4BU3P1909n7iPcqk68N7Q)
 
 [微信 Tinker 在 Android 中集成以及使用](http://mp.weixin.qq.com/s/MFpvNeVHuv2J4m_Wz-NZbw)
+
+[Android 端“被挤下线”功能的实现](http://mp.weixin.qq.com/s/rGOosMyAIVvbafj1vXpj8A)
+
+[Android 手机 全面屏（18：9屏幕）适配指南](http://mp.weixin.qq.com/s/UfqJ0suGkoxrZiSdTn8Lpw)
+
+[Android 借助 Python 实现自动打包上传 fir](http://mp.weixin.qq.com/s/BUht6BR0T0yAi6RrAVIwQA)
 
