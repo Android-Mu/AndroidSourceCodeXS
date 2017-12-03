@@ -38,6 +38,9 @@ Android 旅途路上的一些用得着的资源整理
 
 [自定义 View 之炫酷的成绩展示界面](http://mp.weixin.qq.com/s/WamWBViJMNksefxs8xIB_Q)
 
+[仿知乎内容广告栏 WindowImageView](https://mp.weixin.qq.com/s/VZnDPLzMDD-c7nV0KIWPnQ)
+
+
 ### 框架/库（封装使用）
 [为 Retrofit2 提供的 FastJson 转换库](http://mp.weixin.qq.com/s/2QbqVmh0-5v10E-Ge-3Dog)
 
@@ -64,6 +67,11 @@ Android 旅途路上的一些用得着的资源整理
 [值得借鉴：耗时两个月的求职经历](http://mp.weixin.qq.com/s/leuQDDAFvuGZjkdAkmzZHQ)
 
 [面试官之初体验，请考虑](http://mp.weixin.qq.com/s/IIaQn4veC9_YVJL2fGiYgw)
+
+[经历的某度的一场面试](http://mp.weixin.qq.com/s/qlSiIJRwPMpPbpji5Lx5uA)
+
+[一个三本学生的面试之旅](http://mp.weixin.qq.com/s/vqAf6UF99zfIQGDjcjEclA)
+
 
 ### 干货
 [程序员，你还没有软技能吗？难怪你不幸福](http://mp.weixin.qq.com/s/M6vd26jO4-IccS-DX8k59A)
@@ -92,6 +100,9 @@ Android 旅途路上的一些用得着的资源整理
 ### 职场
 [中国程序员如何升职加薪，也许我们该学学印度人](http://mp.weixin.qq.com/s/aWvYfjvH9fRVP2oRPZvA_A)
 
+[跃迁：成为高手的技术](http://mp.weixin.qq.com/s/dF1t5v8qxZH8SMkUHAvB8g)
+
+
 ### 经验分享
 [程序员应该读的 7 本计算机书](http://mp.weixin.qq.com/s/rRQB1zT1T5vwUpWAdb0Z-g)
 
@@ -113,8 +124,13 @@ Android 旅途路上的一些用得着的资源整理
 
 [如何有效报告 bug](http://mp.weixin.qq.com/s/1X_ZodEa05pOAUS641MITw)
 
+[我的 10 年自学编程之路](http://mp.weixin.qq.com/s/n9saZOwsBVZebkDWPZ5oQg)
+
+[别让程序员停止在 35 岁，如何让我们走得更远](http://mp.weixin.qq.com/s/njGNL6F-aHgP6gUo5ouvsw)
+
 
 ### 完整系列
+[Android 开发之漫漫长途Ⅰ—Android 系统的创世之初以及 Activity 的生命周期](http://mp.weixin.qq.com/s/XB7bjkEPz8fcL3qrHadUMg)
 
 
 ### 项目中的技术
@@ -122,6 +138,9 @@ Android 旅途路上的一些用得着的资源整理
 [Android 解锁 Gradle 依赖新姿势](https://mp.weixin.qq.com/s/bzfe0CT4jFGVhwE2LZc1Ig)
 
 [Gradle 的高级技巧](http://mp.weixin.qq.com/s/dSFdnjEq67UIoRixNeFc2w)
+
+[提速 Android Gradle 构建](http://mp.weixin.qq.com/s/6XhH7_kmzTS6JPwdJ97L7A)
+
 
 **优化/瘦身**
 
@@ -149,6 +168,8 @@ Android 旅途路上的一些用得着的资源整理
 [Android 精进之简述 JVM 基础（二）：Java内存区域与内存溢出异常](https://mp.weixin.qq.com/s/FtgS0VI9xl2-lyYiMniRkA)
 
 [Android 精进：简述 JVM 基础（三）：垃圾收集器与内存分配策略](http://mp.weixin.qq.com/s/1n9ZYKfxwQle7WdvNqUMZg)
+
+[简述 JVM 基础（四）：类结构文件](http://mp.weixin.qq.com/s/Xucw1VeYGgmF9O7T16CVow)
 
 ---
 
@@ -237,4 +258,8 @@ Android 旅途路上的一些用得着的资源整理
 [Android 手机 全面屏（18：9屏幕）适配指南](http://mp.weixin.qq.com/s/UfqJ0suGkoxrZiSdTn8Lpw)
 
 [Android 借助 Python 实现自动打包上传 fir](http://mp.weixin.qq.com/s/BUht6BR0T0yAi6RrAVIwQA)
+
+[带你通俗易懂的理解——线程、多线程与线程池](http://mp.weixin.qq.com/s/mA59X7bOotyWwvf2V6zMIA)
+
+[Android NFC 技术解析，附 Demo 源码](https://mp.weixin.qq.com/s/lVvvIGapceFrT7_oo_rPBw)
 
