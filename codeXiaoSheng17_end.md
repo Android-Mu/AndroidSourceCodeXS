@@ -40,6 +40,8 @@ Android 旅途路上的一些用得着的资源整理
 
 [仿知乎内容广告栏 WindowImageView](https://mp.weixin.qq.com/s/VZnDPLzMDD-c7nV0KIWPnQ)
 
+[仿微信表情输入键盘(支持 Gif 表情图文混排 )](http://mp.weixin.qq.com/s/A-zDgAKx_xkgWkdOHBpeYg)
+
 
 ### 框架/库（封装使用）
 [为 Retrofit2 提供的 FastJson 转换库](http://mp.weixin.qq.com/s/2QbqVmh0-5v10E-Ge-3Dog)
@@ -71,6 +73,8 @@ Android 旅途路上的一些用得着的资源整理
 [经历的某度的一场面试](http://mp.weixin.qq.com/s/qlSiIJRwPMpPbpji5Lx5uA)
 
 [一个三本学生的面试之旅](http://mp.weixin.qq.com/s/vqAf6UF99zfIQGDjcjEclA)
+
+[漫无止境的秋招](http://mp.weixin.qq.com/s/mq1Fo5pD8CLuwpOAKXqnUA)
 
 
 ### 干货
@@ -128,9 +132,15 @@ Android 旅途路上的一些用得着的资源整理
 
 [别让程序员停止在 35 岁，如何让我们走得更远](http://mp.weixin.qq.com/s/njGNL6F-aHgP6gUo5ouvsw)
 
+[编程的自学方法](https://mp.weixin.qq.com/s/dsBoZHfsb97owCKiQVIF6g)
+
 
 ### 完整系列
 [Android 开发之漫漫长途Ⅰ—Android 系统的创世之初以及 Activity 的生命周期](http://mp.weixin.qq.com/s/XB7bjkEPz8fcL3qrHadUMg)
+
+[Android 开发之漫漫长途 Ⅱ——Activity的显示之Window和View（1）](http://mp.weixin.qq.com/s/-hgEHOxjcGEgmD0CqUFx3Q)
+
+[Android 开发之漫漫长途 Ⅲ—Activity 的显示之 Window和View（2）](http://mp.weixin.qq.com/s/YHrubcanydIkbu1PKSHrCw)
 
 
 ### 项目中的技术
@@ -170,6 +180,9 @@ Android 旅途路上的一些用得着的资源整理
 [Android 精进：简述 JVM 基础（三）：垃圾收集器与内存分配策略](http://mp.weixin.qq.com/s/1n9ZYKfxwQle7WdvNqUMZg)
 
 [简述 JVM 基础（四）：类结构文件](http://mp.weixin.qq.com/s/Xucw1VeYGgmF9O7T16CVow)
+
+[简述JVM基础（五）：虚拟机类加载机制](http://mp.weixin.qq.com/s/gdfbGETzGA_V5_RqLYXs3g)
+
 
 ---
 
@@ -263,3 +276,12 @@ Android 旅途路上的一些用得着的资源整理
 
 [Android NFC 技术解析，附 Demo 源码](https://mp.weixin.qq.com/s/lVvvIGapceFrT7_oo_rPBw)
 
+[Android 中.aar文件生成方法与用法](http://mp.weixin.qq.com/s/NN5pJNoUXGRZJJL5yBEQ4A)
+
+[Android 键盘适配-中英文适配](http://mp.weixin.qq.com/s/Yncr0XZ4MCWZH2vzTVyYJw)
+
+[软件开发知识体系](http://mp.weixin.qq.com/s/A5n9PG0aUl2z2z3zakZF3A)
+
+[热修复——Tinker 的集成与使用](http://mp.weixin.qq.com/s/xpB_ipYv9cN8k8fdr_7wCw)
+
+[AndroidStudio JNI详细教程+Gradle3.0 以上 JNI 爬坑之旅](http://mp.weixin.qq.com/s/hdWjr7A7wiSoHKI3VnsT5w)
