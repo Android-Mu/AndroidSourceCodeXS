@@ -13,6 +13,9 @@ Android 旅途路上的一些用得着的资源整理
 
 [来自大学生投稿：一个适合新手上手的商城项目](http://mp.weixin.qq.com/s/VxpCVlJhU3_QQgHK2HJ9Bg)
 
+["DeepNight-in-kotlin"一个纯看妹纸的 Kotlin 开源项目](http://mp.weixin.qq.com/s/gH4O_daurb0pompeDybszw)
+
+
 ### 自定义 / 仿系列
 [自定义 View—手把手教你撸出一个圆形加载进度条](http://mp.weixin.qq.com/s/SL2Axl21NVfx9qz-q_CPiw)
 
@@ -96,10 +99,12 @@ Android 旅途路上的一些用得着的资源整理
 
 [推荐几个开源库](http://mp.weixin.qq.com/s/wpygDxIMzV4SkOr5vqPRZQ)
 
+
 ### 源码分析
 [三步掌握 Android 中的 AIDL](http://mp.weixin.qq.com/s/KkGefJxHF_MLlb5K2p-WWg)
 
 [Android 进阶 - 视图层级实时分析（含福利）](http://mp.weixin.qq.com/s/CkTNrLu0AIDGsPQKIXz-ug)
+
 
 ### 职场
 [中国程序员如何升职加薪，也许我们该学学印度人](http://mp.weixin.qq.com/s/aWvYfjvH9fRVP2oRPZvA_A)
@@ -134,6 +139,10 @@ Android 旅途路上的一些用得着的资源整理
 
 [编程的自学方法](https://mp.weixin.qq.com/s/dsBoZHfsb97owCKiQVIF6g)
 
+[开除了没情商的“技术大神”后，整个团队都好起来了](http://mp.weixin.qq.com/s/YrfESqAh-hCOLh3fHsstEQ)
+
+[程序员的五种不同寻常的特质](http://mp.weixin.qq.com/s/PFkE_zM-nrdOeU2fRK3y2Q)
+
 
 ### 完整系列
 [Android 开发之漫漫长途Ⅰ—Android 系统的创世之初以及 Activity 的生命周期](http://mp.weixin.qq.com/s/XB7bjkEPz8fcL3qrHadUMg)
@@ -141,6 +150,10 @@ Android 旅途路上的一些用得着的资源整理
 [Android 开发之漫漫长途 Ⅱ——Activity的显示之Window和View（1）](http://mp.weixin.qq.com/s/-hgEHOxjcGEgmD0CqUFx3Q)
 
 [Android 开发之漫漫长途 Ⅲ—Activity 的显示之 Window和View（2）](http://mp.weixin.qq.com/s/YHrubcanydIkbu1PKSHrCw)
+
+[Android 开发之漫漫长途 Ⅳ——Activity 的显示之 ViewRootImpl 初探](http://mp.weixin.qq.com/s/DKgwS6wkX3xP6ypScDmZUA)
+
+[Activity 显示之 ViewRootImpl的PreMeasure、WindowLayout、EndMeasure 等方法](http://mp.weixin.qq.com/s/QnW3BRo4_ToL8TLGTHJ1IA)
 
 
 ### 项目中的技术
@@ -182,6 +195,10 @@ Android 旅途路上的一些用得着的资源整理
 [简述 JVM 基础（四）：类结构文件](http://mp.weixin.qq.com/s/Xucw1VeYGgmF9O7T16CVow)
 
 [简述JVM基础（五）：虚拟机类加载机制](http://mp.weixin.qq.com/s/gdfbGETzGA_V5_RqLYXs3g)
+
+[简述JVM基础（六）：虚拟机字节码执行引擎](http://mp.weixin.qq.com/s/ZP4TyBFKmjxRxULhl1NRWA)
+
+[简述JVM基础（七）: Java 内存模型与线程](http://mp.weixin.qq.com/s/8y1FknUY7NcmgNYwVEB7hQ)
 
 
 ---
@@ -285,3 +302,10 @@ Android 旅途路上的一些用得着的资源整理
 [热修复——Tinker 的集成与使用](http://mp.weixin.qq.com/s/xpB_ipYv9cN8k8fdr_7wCw)
 
 [AndroidStudio JNI详细教程+Gradle3.0 以上 JNI 爬坑之旅](http://mp.weixin.qq.com/s/hdWjr7A7wiSoHKI3VnsT5w)
+
+[热修复——Bugly 让热修复变得如此简单](http://mp.weixin.qq.com/s/rv7cUIOoLx60QZisAG0yyg)
+
+[Android Lint增量扫描实战纪要](http://mp.weixin.qq.com/s/RMz0y0nXatupoUomoWOtmQ)
+
+[理解 Android 硬件加速原理的小白文](http://mp.weixin.qq.com/s/Xodc0Eg7_rn24OdKRbntSA)
+
